@@ -15,10 +15,10 @@
 
 				<div class="row form-group">
 					<div class="col-sm-2">
-						<label class="control-label modal-label">Product Family:</label>
+						<label class="control-label modal-label">Product Category:</label>
 					</div>
 					<div class="col-sm-10">
-						<input type="text" class="form-control" name="family_name" required>
+						<input type="text" class="form-control" name="category_name" required>
 					</div>
 				</div>
 
